@@ -1,4 +1,4 @@
-![Levitation Lab](https://github.com/sourceduty/Levitation_Lab/assets/123030236/980ae175-9ea3-4c7c-9e2b-9b7f19d94656)
+![Levitation Lab](https://github.com/sourceduty/Levitation_Lab/assets/123030236/e7efe9ad-744b-40e4-af94-c2eed9720546)
 
 > An innovative and experimental facility dedicated to exploring the possibilities of human levitation.
 

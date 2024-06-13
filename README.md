@@ -42,5 +42,10 @@ Finally, the cost of implementing such a project is prohibitively high. Setting 
 
 > Alex: *"This might become possible."*
 
+#
+### Related Links
+
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

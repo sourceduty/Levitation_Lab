@@ -38,5 +38,9 @@ Finally, the cost of implementing such a project is prohibitively high. Setting 
 
 ![Human Levitation Lab Concept](https://github.com/sourceduty/Levitation_Lab/assets/123030236/2f08dcdd-6966-4aa6-9bc1-487a5c40c31d)
 
+#
+
+Alex: *"This might become possible."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

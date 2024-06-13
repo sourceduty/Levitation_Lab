@@ -28,7 +28,11 @@ The Levitation Lab project aims to explore the possibilities of human levitation
 
 The estimated cost for setting up the facility, procuring necessary equipment, and hiring skilled personnel ranges between $650,000 and $1.6 million. The timeline for initial setup is expected to be 6-12 months, with research and testing extending over 1-3 years, resulting in a total project duration of approximately 1.5 to 3.5 years.
 
-The feasibility of this project depends heavily on the availability of sustained funding, access to cutting-edge technology, and a multidisciplinary team of experts. While theoretically possible, the practical implementation of human levitation is fraught with scientific uncertainties and high risks, making it a challenging but potentially groundbreaking pursuit.
+The feasibility of using magnetic levitation (maglev) for human levitation in a laboratory setting faces significant challenges. The primary obstacle is the immense power and precision required to generate magnetic fields strong enough to lift a human body safely. This demands sophisticated superconducting magnets and cryogenic systems, which are not only technically complex but also highly sensitive to disturbances, making the setup and maintenance exceedingly difficult.
+
+Moreover, the safety risks associated with human levitation using maglev technology are considerable. The magnetic fields necessary to achieve levitation could pose health risks, such as interference with electronic medical devices and potential effects on the human body. Ensuring stable and safe levitation would require extensive safety measures and fail-safes to prevent accidents, adding another layer of complexity and risk to the project.
+
+Finally, the cost of implementing such a project is prohibitively high. Setting up a lab equipped with the required superconducting magnets, cryogenic systems, and safety measures would entail an initial investment in the range of hundreds of thousands to millions of dollars. Additionally, the operational costs, including power consumption, maintenance, and skilled personnel, would be substantial. These financial burdens make maglev-based human levitation an impractical and risky venture at present.
 
 #
 

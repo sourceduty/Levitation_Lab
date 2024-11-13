@@ -49,6 +49,8 @@ Finally, the cost of implementing such a project is prohibitively high. Setting 
 [Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Maglev Speaker](https://github.com/sourceduty/Maglev_Speaker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

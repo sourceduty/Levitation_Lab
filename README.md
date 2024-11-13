@@ -17,6 +17,8 @@ In conclusion, the Human Levitation Laboratory represents a fascinating frontier
 #
 ### Human Levitation
 
+![Force](https://github.com/user-attachments/assets/ba896348-fd54-4b21-8a48-c0300604b421)
+
 Human levitation, as commonly imagined in science fiction and popular culture, is not currently possible through conventional means due to the constraints of physics. However, certain technologies can create levitation-like effects. Magnetic levitation (maglev) is used in some transportation systems, like trains, and involves using magnetic fields to lift and propel objects. Acoustic levitation employs sound waves to suspend small objects. Electrostatic and aerodynamic levitation are other experimental methods. While these technologies offer intriguing possibilities, they are far from enabling the kind of human levitation seen in fictional contexts.
 
 Using magnetic levitation (maglev) is a feasible method for achieving levitation in a laboratory setting. It works by using magnetic fields to lift and stabilize objects without physical contact, making it a clean and precise technique. In a lab, this could involve superconducting magnets and cryogenic systems to achieve the necessary conditions for stable levitation. While maglev technology is already used in applications like high-speed trains, adapting it for human levitation would require overcoming significant technical challenges, including generating sufficient lift and ensuring safety and stability for the human subject.
@@ -35,7 +37,6 @@ Moreover, the safety risks associated with human levitation using maglev technol
 Finally, the cost of implementing such a project is prohibitively high. Setting up a lab equipped with the required superconducting magnets, cryogenic systems, and safety measures would entail an initial investment in the range of hundreds of thousands to millions of dollars. Additionally, the operational costs, including power consumption, maintenance, and skilled personnel, would be substantial. These financial burdens make maglev-based human levitation an impractical and risky venture at present.
 
 #
-
 ![Human Levitation Lab Concept](https://github.com/sourceduty/Levitation_Lab/assets/123030236/2f08dcdd-6966-4aa6-9bc1-487a5c40c31d)
 
 #
@@ -46,6 +47,8 @@ Finally, the cost of implementing such a project is prohibitively high. Setting 
 ### Related Links
 
 [Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
